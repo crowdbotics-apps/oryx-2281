@@ -1,0 +1,3 @@
+rootProject.name = 'oryx_2281'
+
+include ':app'
